@@ -1,1 +1,25 @@
-{"name":"Peptide Planner","short_name":"Peptide Planner","description":"Personal peptide schedule and dose journal","start_url":"./","scope":"./","display":"standalone","orientation":"any","background_color":"#fffaf9","theme_color":"#f5d9e3","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "./",
+  "name": "PetalDose \u2014 peptide planner",
+  "short_name": "PetalDose",
+  "description": "Your coquette peptide planner, calendar and inventory tracker",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#fce8f5",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
